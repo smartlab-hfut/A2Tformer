@@ -70,4 +70,3 @@ MIT License.
 Feel free to reach out for collaborations or questions.
 
 - 📧 luohuan@mail.hfut.edu.cn
-- 📧 liqiyue@mail.ustc.edu.cn
